@@ -1,6 +1,6 @@
 # GangRP Discord RPC
 
-its a Discord Rich Presence For GangRP (RolePlay)
+its a Discord Rich Presence For GangRP
 ---
 
 ------------------------------------------------------------------------------
