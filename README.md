@@ -16,5 +16,5 @@ Step 3: Write on the Terminal cmd: ``npm i discord-rpc``
 ------------------------------------------------------------------------------
 Step 4: after the installation finish please write: ``node .``
 ------------------------------------------------------------------------------
-If you head some problems you can contact me on my personal discord: xNEORAI4321"
+If you head some problems you can contact me on my personal discord: ``xNEORAI4321``
 ------------------------------------------------------------------------------
